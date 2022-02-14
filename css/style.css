@@ -105,6 +105,14 @@ nav ul li:hover::after {
   width: 100%;
 }
 
+.cuadrado {
+  width: 15px;
+  height: 15px;
+  background: #271fe0;
+  display: inline-block;
+  margin: 15px 0;
+}
+
 .nav__list_footer {
   list-style: none;
 }
